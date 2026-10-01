@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StockSplit.Api/StockSplit.Api.csproj" />
+  <Project Path="StockSplit.Tests/StockSplit.Tests.csproj" />
+</Solution>
